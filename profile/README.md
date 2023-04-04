@@ -1,5 +1,4 @@
-# cabal
-**experimental p2p community chat platform**
+**Cabal: experimental p2p community chat platform**
 
 - **[Cable](https://github.com/cabal-club/cable)**, a new wire protocol for Cabal
 - **Values:** [Community values](https://github.com/cabal-club/commons/blob/master/values.md#values)
