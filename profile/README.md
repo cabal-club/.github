@@ -2,19 +2,15 @@
 **experimental p2p community chat platform**
 
 - **[Cable](https://github.com/cabal-club/cable)**, a new wire protocol for Cabal
+- **Values:** [Community values](https://github.com/cabal-club/commons/blob/master/values.md#values)
 - **Desktop:** [cabal-desktop](https://github.com/cabal-club/cabal-desktop)
 - **Terminal:** `npm install --global cabal`
-- **Values:** [Community values](https://github.com/cabal-club/commons/blob/master/values.md#values)
 - **FAQ:** [Frequently Asked Questions](https://cabal.chat/faq.html)
 - **IRC:** [irc://irc.libera.chat/#cabal.club](irc://irc.libera.chat/#cabal.club)
 
-Join the cabal public chat
+Join the public cabal by entering the following key into any cabal client:
 
 [`cabal://324eee92611cd877841c4de9fd5253e9dba6033329a837ee5f01beb005dffb2f`](cabal://324eee92611cd877841c4de9fd5253e9dba6033329a837ee5f01beb005dffb2f)
-
-Enter this key into any cabal client to join the public cabal.
-
-Cabal is super young, and while we try to dogfood it as we develop it, sometimes things break. If they do, please join us on libera.chat IRC in #cabal.club and let us know!
 
 ## ABOUT cabal
 
