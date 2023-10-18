@@ -17,4 +17,4 @@ No servers are needed to join a cabal, or to start your own. Everything is store
 
 A cabal is identified by its secret key (`cabal://7d99b453506b974...`) that you share with your friends. This key lets them find and join the cabal.
 
-Cabal works over the internet, but also lets you chat over the local network. If offline, you can still browse your full chat history, and send messages that will be sync'd with any future peers you connect to.
+Cabal works over the internet, but also works offline: you can still browse your full chat history, and send messages that will be sync'd with any future peers you connect to.
