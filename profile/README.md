@@ -1,9 +1,9 @@
 **Cabal: experimental p2p community chat platform**
 
-- **[Cable](https://github.com/cabal-club/cable)**, a new wire protocol for Cabal
+- **[Cable](https://github.com/cabal-club/cable)**, a new and upcoming wire protocol for the next generation of Cabal
 - **Values:** [Community values](https://github.com/cabal-club/commons/blob/master/values.md#values)
-- **Desktop:** [cabal-desktop](https://github.com/cabal-club/cabal-desktop)
-- **Terminal:** `npm install --global cabal`
+- **Desktop App:** [cabal-desktop](https://github.com/cabal-club/cabal-desktop)
+- **Terminal App:** `npm install --global cabal`
 - **FAQ:** [Frequently Asked Questions](https://cabal.chat/faq.html)
 - **IRC:** [irc://irc.libera.chat/#cabal.club](irc://irc.libera.chat/#cabal.club)
 
